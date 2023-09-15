@@ -6,5 +6,5 @@
 - Living in 🇩🇪 
 - Fluent in 🇵🇹 🇩🇪 🇬🇧 🇪🇸 
 - 😄 Pronouns: all 
-- 🌱 I’m currently doing an apprenticeship in the IT branch (software developer)
+- 🌱 Computer science expert in software development
 - 💬 Ask me about everything you want
